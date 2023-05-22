@@ -119,6 +119,10 @@ footer {
   display: flex;
   }
 
+  @media screen and (max-widht: 426px) {
+    
+  }
+
 .bold {
   font-weight: bold;
   color: #ffffff;
