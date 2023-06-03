@@ -189,3 +189,11 @@ li {
     text-decoration: none;
     
 }
+
+h3 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: verdana;
+    padding-top: 10px;
+    padding-left: 5px;
+}
